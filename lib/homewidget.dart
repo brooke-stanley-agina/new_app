@@ -5,7 +5,7 @@ class HomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      Text('Homepage'),
+      Text('Kabale Radio'),
     );
   }
 }
